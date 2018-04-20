@@ -2,7 +2,7 @@
 
 This is inspired by [Monero's Naming Convention](https://github.com/monero-project/meta/blob/master/NAMING.md). 
 
-The name of new Wownero releases will follow an `adjective + meme` convention. Any one can edit this file and add new memes.
+The name of new Wownero releases will follow an `adjective + meme` convention. Proposed names should be in alphabetical order and shorten to two or three words. For an example, `Carlos Matos`, can be either `Crusty Carlos` or  `Marvellous Matos`. Anyone can edit this file and add new memes.
 
 ## C
 - Carlos Matos
