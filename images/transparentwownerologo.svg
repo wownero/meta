@@ -1,1 +1,73 @@
-<svg id="svg24" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600.17 600.17"><defs><style>.cls-1{fill:#1a1a1a;}</style></defs><title>transparentwownerologo</title><g id="Identity"><g id="g10"><path class="cls-1" d="M464.66,236.71l-12.91,222.5L300.18,292,149.36,458.57S137.18,246.3,136.63,236.8l-93.45-.28a265.57,265.57,0,0,0-8.3,66.24c0,146.4,118.72,265.12,265.12,265.12S565.12,449.16,565.12,302.76a271,271,0,0,0-7.93-66.33Z" transform="translate(0.18 0.09)"/><path class="cls-1" d="M576.38,183.2a300.21,300.21,0,0,0-552.94,0A300.36,300.36,0,0,0,183.12,576.46,300.36,300.36,0,0,0,576.38,416.78a300.66,300.66,0,0,0,0-233.58ZM300,11.62c125.73,0,232.74,80.44,272.13,192.89H432.84c-3.51,60.89-7.57,122.05-10.43,172.23L299.91,240.58,177.31,376.65c-3.23-58.76-9.87-172.14-9.87-172.14-46.22-.18-95.39.28-139.48-.36C67.53,92.06,174.54,11.62,300,11.62Zm0,576.18c-159,0-288.37-129.33-288.37-288.36a287.73,287.73,0,0,1,12.64-84.5H157.2l10.7,187.91s127.49-141.51,131.82-146.4c7.38,8.58,118.17,130.72,132,146.77l10.79-188.1,133.21-.18a290.8,290.8,0,0,1,12.64,84.5C588.37,458.38,459,587.8,300,587.8Z" transform="translate(0.18 0.09)"/></g></g></svg>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   height="600"
+   width="600"
+   sodipodi:docname="transparentwownerologo.svg"
+   version="1.1"
+   viewBox="0 0 600.00002 600.00002"
+   id="svg24">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>transparentwownerologo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg24"
+     inkscape:window-maximized="1"
+     inkscape:window-y="54"
+     inkscape:window-x="-8"
+     inkscape:cy="420.96076"
+     inkscape:cx="258.94547"
+     inkscape:zoom="0.64666667"
+     showgrid="false"
+     id="namedview15"
+     inkscape:window-height="715"
+     inkscape:window-width="1360"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#1a1a1a;}</style>
+  </defs>
+  <title
+     id="title6">transparentwownerologo</title>
+  <g
+     transform="matrix(0.99977721,0,0,0.99992087,-0.03659712,-0.08590493)"
+     id="Identity">
+    <g
+       id="g10">
+      <path
+         id="path8"
+         transform="translate(0.18,0.09)"
+         d="M 464.66,236.71 451.75,459.21 300.18,292 149.36,458.57 c 0,0 -12.18,-212.27 -12.73,-221.77 l -93.45,-0.28 a 265.57,265.57 0 0 0 -8.3,66.24 c 0,146.4 118.72,265.12 265.12,265.12 146.4,0 265.12,-118.72 265.12,-265.12 a 271,271 0 0 0 -7.93,-66.33 z"
+         class="cls-1" />
+      <path
+         id="path10"
+         transform="translate(0.18,0.09)"
+         d="m 576.38,183.2 a 300.21,300.21 0 0 0 -552.94,0 300.36,300.36 0 0 0 159.68,393.26 300.36,300.36 0 0 0 393.26,-159.68 300.66,300.66 0 0 0 0,-233.58 z M 300,11.62 c 125.73,0 232.74,80.44 272.13,192.89 H 432.84 c -3.51,60.89 -7.57,122.05 -10.43,172.23 L 299.91,240.58 177.31,376.65 C 174.08,317.89 167.44,204.51 167.44,204.51 121.22,204.33 72.05,204.79 27.96,204.15 67.53,92.06 174.54,11.62 300,11.62 Z m 0,576.18 C 141,587.8 11.63,458.47 11.63,299.44 a 287.73,287.73 0 0 1 12.64,-84.5 H 157.2 l 10.7,187.91 c 0,0 127.49,-141.51 131.82,-146.4 7.38,8.58 118.17,130.72 132,146.77 l 10.79,-188.1 133.21,-0.18 a 290.8,290.8 0 0 1 12.64,84.5 C 588.37,458.38 459,587.8 300,587.8 Z"
+         class="cls-1" />
+    </g>
+  </g>
+</svg>
